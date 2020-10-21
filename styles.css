@@ -1,8 +1,14 @@
 .border {
   border: 3px solid black !important;
-  border-radius: 40px;
+  border-radius: 60px;
 }
 
 .border-right {
   border-right: 3px solid black !important;
+}
+
+.header > div > div:first-of-type {
+  background-color: #6aaf48;
+  border-top-left-radius: 57px;
+  border-bottom-left-radius: 57px;
 }
