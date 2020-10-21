@@ -6,8 +6,3 @@
 .border-right {
   border-right: 3px solid black !important;
 }
-
-.container > .row > div:first-of-type {
-  height: 400px;
-  background-color: #6ac644;
-}
